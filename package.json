@@ -1,0 +1,27 @@
+{
+  "name": "ArBot",
+  "version": "1.0.0",
+  "description": "ArBot for Slack",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://DissonanceIsBliss@github.com/DissonanceIsBliss/arbot.git"
+  },
+  "keywords": [
+    "Slack",
+    "Bot"
+  ],
+  "author": "Diego Pablos",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DissonanceIsBliss/arbot/issues"
+  },
+  "homepage": "https://github.com/DissonanceIsBliss/arbot",
+  "dependencies": {
+    "body-parser": "^1.15.0",
+    "express": "^4.13.4"
+  }
+}
